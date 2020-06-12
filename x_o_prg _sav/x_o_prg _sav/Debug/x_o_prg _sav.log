@@ -1,0 +1,13 @@
+﻿  Stone.c
+d:\prg\x_o_prg _sav\x_o_prg _sav\stone.c(134): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+d:\prg\x_o_prg _sav\x_o_prg _sav\stone.c(135): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+d:\prg\x_o_prg _sav\x_o_prg _sav\stone.c(156): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+d:\prg\x_o_prg _sav\x_o_prg _sav\stone.c(157): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+d:\prg\x_o_prg _sav\x_o_prg _sav\stone.c(114): warning C4715: 'checkKlein': not all control paths return a value
+d:\prg\x_o_prg _sav\x_o_prg _sav\stone.c(43): warning C4715: 'check': not all control paths return a value
+d:\prg\x_o_prg _sav\x_o_prg _sav\stone.c(69): warning C4715: 'checkTor': not all control paths return a value
+  x_o_prg _sav.vcxproj -> D:\PRG\x_o_prg _sav\Debug\x_o_prg _sav.exe
